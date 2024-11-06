@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+#### Welcome to my profile! 
+I'm a Computer Engineering student at MSRIT, passionate about development and interested in AI . Thanks for visiting and feel free to check out my repos:)
+
+#### 📫 Reach me at:
+- LinkedIn: https://in.linkedin.com/in/aarthi-prashanth-1606b0253
+- Email: aarthipv2004@gmail.com
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarthipv&theme=shadow_green&show_icons=true)
 
 <!--
